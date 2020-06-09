@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firestore-grafica-bbf9c": {
+      "hosting": {
+        "goty": [
+          "firestore-grafica-bbf9c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestore-grafica-bbf9c"
+  }
+}
